@@ -1,5 +1,11 @@
 ![Header](https://user-images.githubusercontent.com/28369586/152299304-16f805c0-bd39-49a0-aca9-cc12b2f783b2.png)
 
+
+# Mikey Mamich
+
+---
+
+My expersites lays in the MERN stack with a focus in Modern JavaScript. I've worked with CMS's like WordPress and Joomla which has allowed me to use PHP and MySQL. I also have experience with Cloud Computing Services such as Digital Ocean, Lightsail, and other features in AWS. 
 <!--
 **MMMamich/MMMamich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
