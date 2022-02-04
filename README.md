@@ -5,6 +5,8 @@ Hello my name is Mikey! Combining the design and logic is what gets me excited. 
 # 🤝 Connect With Me
 
 <a href="mailto:mmmamich@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://codepen.io/mmmamich" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
+<a href="https://www.linkedin.com/in/michael-mamich/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 # 💻 Techinal Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
