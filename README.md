@@ -1,7 +1,5 @@
 ![Mikey_Banner](https://user-images.githubusercontent.com/28369586/152471587-63b5d57c-149c-40de-9479-15c8bd3321bc.png)
 
-Hello my name is Mikey! Combining the design and logic is what gets me excited. Whether it's my personal projects or open source projects I just enjoy hacking away and learning. 
-
 # 🤝 Connect With Me
 
 <a href="mailto:mmmamich@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -24,18 +22,9 @@ Hello my name is Mikey! Combining the design and logic is what gets me excited. 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!--
-**MMMamich/MMMamich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...!
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💾 About Me
+Combining the design and logic is what gets me excited. Whether it's my personal projects, work, or open source projects I enjoy problem solving, tackling new problems, and learning. View More About Me [Here](https://michaelmamich.com/)
+ 
+* 🌱 I’m currently learning GraphQL
+* 🤓 I'm a nerd about... 🛹 🏂 🏒 🎹 🥁
+* 🏗 I’m currently building a MERN Reddit Clone
