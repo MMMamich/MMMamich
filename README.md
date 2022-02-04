@@ -1,5 +1,12 @@
 ![Mikey_Banner](https://user-images.githubusercontent.com/28369586/152471587-63b5d57c-149c-40de-9479-15c8bd3321bc.png)
 
+Hello my name is Mikey! Combining the design and logic is what gets me excited. Whether it's my personal projects or open source projects I just enjoy hacking away and learning. 
+
+# 🤝 Connect With Me
+
+
+
+
 # 💻 Techinal Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
