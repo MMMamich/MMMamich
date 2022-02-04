@@ -4,8 +4,7 @@ Hello my name is Mikey! Combining the design and logic is what gets me excited. 
 
 # 🤝 Connect With Me
 
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mmmamich@gmail.com)
 
 # 💻 Techinal Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
